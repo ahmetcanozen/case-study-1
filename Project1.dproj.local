@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.166,=D:\Yazilim\Other\Frm_HL7Parser.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.782,C:\Users\AhmetCanOzen\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Yazilim\Other\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,D:\Yazilim\Other\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,D:\Yazilim\Other\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=D:\Yazilim\Other\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,C:\Users\AhmetCanOzen\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Yazilim\Other\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,=C:\Users\AhmetCanOzen\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,=D:\Yazilim\HBYS\src_rs24\Cocuk_\Frm_HL7Parser.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,C:\Users\AhmetCanOzen\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Yazilim\Other\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,D:\Yazilim\HBYS\src_rs24\Cocuk_\Frm_HL7Parser.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
